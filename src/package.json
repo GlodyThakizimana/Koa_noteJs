@@ -1,0 +1,26 @@
+{
+  "name": "koa_noteJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlodyThakizimana/Koa_noteJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlodyThakizimana/Koa_noteJs/issues"
+  },
+  "homepage": "https://github.com/GlodyThakizimana/Koa_noteJs#readme",
+  "dependencies": {
+    "koa": "^2.13.3",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.1.1"
+  }
+}
